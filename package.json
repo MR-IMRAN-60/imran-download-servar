@@ -1,0 +1,48 @@
+{
+  "name": "imran-download-servar",
+  "version": "2.3.2",
+  "description": " Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Media Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "youtube",
+    "yt download",
+    "Twitter",
+    "imran",
+    "imran-download-servar"
+  ],
+  "author": "IMRAN",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "got": "^10.0.0",
+    "qs": "^6.10.3",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MR-IMRAN-60/imran-downlod-servar"
+  },
+  "directories": {
+    "IMRAN": "IMRAN"
+  },
+  "publishConfig": {
+    "tag": "latest"
+  },
+  "devDependencies": {}
+}
